@@ -4,7 +4,7 @@ MANUAL SETUP
 
 install Node.js
 
-Connect to your instance and run:
+Connect to  instance and run:
 
 ///////////////////
 curl -fsSL https://rpm.nodesource.com/setup_20.x | bash -
@@ -98,7 +98,7 @@ It should start without errors.
 sudo nano /etc/systemd/system/backend.service
 
 
-Paste:
+Pasted:
 
 [Unit]
 Description=Node Backend Service
